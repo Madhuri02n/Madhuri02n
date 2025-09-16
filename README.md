@@ -33,10 +33,9 @@
   <img src="https://skillicons.dev/icons?i=cpp,java,js,react,nodejs,mongodb,python,git,html,css" alt="Skills Icons"/>
 </p>
 
-<!-- Animated progress bars -->
+<!-- ✨ Animated Contribution Graph -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Madhuri02n&repo=WordNook&theme=radical" height="110" alt="WordNook Repo"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Madhuri02n&repo=Disease-Prediction&theme=radical" height="110" alt="Disease Prediction Repo"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhuri02n&theme=react-dark&hide_border=true&area=true" alt="Animated contribution graph"/>
 </p>
 
 ---
@@ -49,15 +48,15 @@
 
 ---
 
-### 🎨 Animated Extras
+### 🎉 Animated Accents
 <p align="center">
   <!-- Rainbow divider -->
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="animated divider"/>
 </p>
 
 <p align="center">
-  <!-- Moving graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhuri02n&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
+  <!-- Rotating icons -->
+  <img src="https://user-images.githubusercontent.com/74038190/216101139-27a52e65-3aa5-42b7-b579-0c5c9da60d09.gif" width="120" height="120" alt="rotating animation"/>
 </p>
 
 <p align="center">
