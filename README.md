@@ -36,6 +36,22 @@
 
 ---
 
+### 🏆 Achievements
+- 🎯 **LeetCode Knight Badge** – for consistent problem-solving  
+- 🥇 **North South Foundation Scholar (2023)**  
+- 🌟 Secured **132 Rank** out of 25,000+ in TS-ECET  
+- 🤝 **Goldman Sachs India Catalyst 2024** – Mentorship on DSA & soft skills
+
+---
+
+### 📚 Learning Now
+- Advanced **React.js & Node.js**  
+- Modern **MongoDB & Express best practices**  
+- Optimizing **Data Structures & Algorithms**  
+- Experimenting with **Machine Learning (Flask + Python)**
+
+---
+
 ### 🎉 Animated Accents
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="animated divider"/>
@@ -43,25 +59,6 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="wave footer"/>
-</p>
-
----
-
-### 📊 Live Highlights
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Madhuri02n&theme=radical&hide_border=true" height="165" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Madhuri02n&theme=dracula&margin-w=15&no-frame=true&no-bg=true" height="140" alt="GitHub Trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhuri02n&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Madhuri02n" alt="Visitors Badge"/>
 </p>
 
 ---
