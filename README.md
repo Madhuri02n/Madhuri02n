@@ -8,7 +8,6 @@
 
 - Projects **WordNook – Social Blogging Platform Node.js · React.js · MongoDB – Built a blogging platform with likes, comments & follows. Disease Prediction Web App Flask · Python · Machine Learning – Predicts diseases from symptoms & recommends medication.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
