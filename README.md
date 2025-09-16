@@ -14,8 +14,8 @@
 
 ### 🙋‍♀️ About Me
 - 💻 Enjoy solving problems & crafting modern solutions  
-
-
+- 🌱 Always eager to learn new technologies  
+- ✨ Focused on **clean, scalable code** and **great user experiences**
 
 ---
 
@@ -33,9 +33,11 @@
   <img src="https://skillicons.dev/icons?i=cpp,java,js,react,nodejs,mongodb,python,git,html,css" alt="Skills Icons"/>
 </p>
 
----
-
-
+<!-- Animated progress bars -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Madhuri02n&repo=WordNook&theme=radical" height="110" alt="WordNook Repo"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Madhuri02n&repo=Disease-Prediction&theme=radical" height="110" alt="Disease Prediction Repo"/>
+</p>
 
 ---
 
@@ -47,12 +49,19 @@
 
 ---
 
-### 🎉 Animated Accents
+### 🎨 Animated Extras
 <p align="center">
+  <!-- Rainbow divider -->
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="animated divider"/>
 </p>
 
 <p align="center">
+  <!-- Moving graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhuri02n&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
+</p>
+
+<p align="center">
+  <!-- Wave footer -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="wave footer"/>
 </p>
 
