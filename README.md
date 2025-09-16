@@ -1,51 +1,63 @@
-<!-- Header -->
-<h1 align="center">✨ Hi, I'm <strong>Madhuri Nallabothula</strong> 👋</h1>
-<h3 align="center">💻 Aspiring Software Engineer & Frontend Developer | Hyderabad, India</h3>
+<!-- 🌟 ANIMATED BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Madhuri%20Nallabothula%20🚀&fontSize=35&fontColor=fff&animation=fadeIn" alt="Animated Header"/>
+</p>
+
+<!-- TYPING INTRO -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=F75C7E&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Madhuri+Nallabothula;Aspiring+Software+Engineer;Frontend+Developer;Passionate+About+Scalable+Apps" alt="Typing SVG"/>
+</h1>
+
+<h3 align="center">💻 Exploring modern tech & building responsive web apps</h3>
 
 ---
 
 ### 🙋‍♀️ About Me
 - 🎓 **B.Tech (CSE), JNTU Hyderabad – 2026**  
-- 💻 Building **scalable web apps** & exploring new tech  
-- 🏅 Practicing **Data Structures & Algorithms** (LeetCode Knight)  
-- 🌱 Currently learning **React Advanced Patterns & Node.js**  
+- 💻 Enjoy solving problems & crafting modern solutions  
+- 🏅 **LeetCode Knight** – Consistently practicing DSA  
+- 🌱 Diving deeper into **React Advanced Patterns & Node.js**
 
 ---
 
 ### 🚀 Projects
 #### 🌐 WordNook – Social Blogging Platform  
-> `Node.js · React.js · MongoDB`  
-> Blogging platform with likes, comments, follows, and responsive UI.
+> MERN stack blogging platform with likes, comments, follows, and responsive UI.
 
 #### 🩺 Disease Prediction Web App  
-> `Flask · Python · Machine Learning`  
-> Predicts diseases from symptoms & recommends medication.
+> Flask + ML app that predicts diseases from symptoms & recommends medication.
 
 ---
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,react,nodejs,mongodb,python,git,html,css" alt="Skills Icons"/>
 </p>
 
 ---
 
-### 📈 Live Highlights  
+### 🎉 Animated Accents
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Madhuri02n&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="animated divider"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Madhuri02n&theme=dracula&margin-w=10&no-bg=true&no-frame=true" alt="Trophies" height="140"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="wave footer"/>
+</p>
+
+---
+
+### 📊 Live Highlights
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Madhuri02n&theme=radical&hide_border=true" height="165" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Madhuri02n&theme=dracula&margin-w=15&no-frame=true&no-bg=true" height="140" alt="GitHub Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhuri02n&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Languages"/>
 </p>
 
 <p align="center">
@@ -54,5 +66,5 @@
 
 ---
 
-### ✨ Inspiration
-> *“I love solving real-world problems, learning continuously, and crafting responsive apps that make an impact.”*
+### ✨ Quote
+> *“Learning, building, and sharing — that’s how I grow as a developer.”*
