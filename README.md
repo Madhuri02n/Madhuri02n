@@ -33,10 +33,6 @@
   <img src="https://skillicons.dev/icons?i=cpp,java,js,react,nodejs,mongodb,python,git,html,css" alt="Skills Icons"/>
 </p>
 
-<!-- ✨ Animated Contribution Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhuri02n&theme=react-dark&hide_border=true&area=true" alt="Animated contribution graph"/>
-</p>
 
 ---
 
