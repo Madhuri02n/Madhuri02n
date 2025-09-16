@@ -13,10 +13,9 @@
 ---
 
 ### 🙋‍♀️ About Me
-- 🎓 **B.Tech (CSE), JNTU Hyderabad – 2026**  
 - 💻 Enjoy solving problems & crafting modern solutions  
-- 🏅 **LeetCode Knight** – Consistently practicing DSA  
-- 🌱 Diving deeper into **React Advanced Patterns & Node.js**
+
+
 
 ---
 
@@ -36,11 +35,7 @@
 
 ---
 
-### 🏆 Achievements
-- 🎯 **LeetCode Knight Badge** – for consistent problem-solving  
-- 🥇 **North South Foundation Scholar (2023)**  
-- 🌟 Secured **132 Rank** out of 25,000+ in TS-ECET  
-- 🤝 **Goldman Sachs India Catalyst 2024** – Mentorship on DSA & soft skills
+
 
 ---
 
