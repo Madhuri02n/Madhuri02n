@@ -5,7 +5,7 @@
 
 <!-- ✨ Front GIF -->
 <p align="center">
-  <img src="https://64.media.tumblr.com/7a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a/tumblr_inline_p7q6qv6v6v1r1k1k1_540.gif" alt="Cute coding animation" width="120" />
+  <img src="https://64.media.tumblr.com/7a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a/tumblr_inline_p7q6qv6v6v1r1k1k1_540.gif" alt="Cute coding animation" width="140" />
 </p>
 
 <!-- TYPING INTRO -->
@@ -34,10 +34,25 @@
 ---
 
 ### 📚 Learning Now
+<div align="center">
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
 - Advanced **React.js & Node.js**  
 - Modern **MongoDB & Express best practices**  
 - Optimizing **Data Structures & Algorithms**  
-- Experimenting with **Machine Learning (Flask + Python)**
+- Experimenting with **Machine Learning (Flask + Python)**  
+
+</td>
+<td width="40%" align="center">
+  <img src="https://user-images.githubusercontent.com/81975567/213871187-5f4af020-4be1-4f17-baa2-0a0b3e2909c2.gif" alt="Cute gif next to learning" width="200" />
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -45,13 +60,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="animated divider" />
 </p>
-
-<!-- ✨ Last GIF -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/81975567/213871187-5f4af020-4be1-4f17-baa2-0a0b3e2909c2.gif" alt="Cute gif at end" width="125" />
-</p>
-
----
 
 <!-- FULL WIDTH ANIMATED WAVE FOOTER -->
 <p align="center">
