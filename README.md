@@ -27,8 +27,7 @@
 
 </td>
 <td width="40%" align="center">
-  <!-- Front GIF (stable GitHub-hosted) -->
-  <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" alt="Cute coding animation" width="170" style="border-radius:12px;" />
+  <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" alt="Coding GIF" width="170" style="border-radius:12px;" />
 </td>
 </tr>
 </table>
@@ -39,8 +38,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <!-- git at front + middle for balance -->
-  <img src="https://skillicons.dev/icons?i=git,cpp,java,js,react,git,nodejs,mongodb,python,html,css" alt="Skills Icons" />
+  <img src="https://skillicons.dev/icons?i=git,cpp,java,js,react,nodejs,mongodb,python,html,css" alt="Skills Icons" />
 </p>
 
 ---
@@ -59,8 +57,7 @@
 
 </td>
 <td width="40%" align="center">
-  <!-- Larger learning GIF placed to the right -->
-  <img src="https://user-images.githubusercontent.com/81975567/213871187-5f4af020-4be1-4f17-baa2-0a0b3e2909c2.gif" alt="Cute gif next to learning" width="240" style="border-radius:12px;" />
+  <img src="https://user-images.githubusercontent.com/81975567/213871187-5f4af020-4be1-4f17-baa2-0a0b3e2909c2.gif" alt="Learning GIF" width="240" style="border-radius:12px;" />
 </td>
 </tr>
 </table>
@@ -79,7 +76,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=wave" alt="Animated Waving Footer" width="100%" />
 </p>
 
-<!-- ✨ Animated Quote (two lines so it won't cut off) -->
+<!-- ✨ Animated Quote -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4500&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&lines=Learning,+building,+and+sharing&lines=that%27s+how+I+grow+as+a+developer." alt="Animated Quote" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4500&pause=1500&color=F75C7E&center=true&vCenter=true&width=1000&lines=Learning,+building,+and+sharing;That%27s+how+I+grow+as+a+developer" alt="Animated Quote" />
 </p>
