@@ -44,7 +44,7 @@
 
 ---
 
-### 🎉 Animated Accents
+
 <p align="center">
   <!-- Rainbow divider -->
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="animated divider"/>
