@@ -22,8 +22,8 @@
 <td width="50%">
 
 ### 👨‍💻 Quick Intro
-- 🔭 Currently working on **Full Stack Web Development**
-- 🌱 Learning **Advanced React & Node.js**
+- 💻 Enjoy solving problems & crafting modern solutions  
+- 🌱 Always eager to learn new technologies  
 - 💡 Passionate about **clean code** and **user experience**
 - 🎯 Goal: **Building scalable applications**
 - ⚡ Fun fact: **I love debugging... sometimes! 😄**
