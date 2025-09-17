@@ -42,7 +42,7 @@
 - Optimizing **Data Structures & Algorithms**  
 - Experimenting with **Machine Learning (Flask + Python)**
 
----
+
 
 
 <p align="center">
