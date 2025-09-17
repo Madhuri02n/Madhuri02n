@@ -73,18 +73,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=madhurinallabothula&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhurinallabothula&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</td>
-</tr>
-</table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=madhurinallabothula&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -124,7 +118,7 @@
 </table>
 
 ### 💡 Random Dev Fact
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=600&lines=There+are+only+10+types+of+people+in+the+world;Those+who+understand+binary;And+those+who+don't! 😄" alt="Dev Joke" />
+**"There are only 10 types of people in the world: those who understand binary and those who don't! 😄"**
 
 </div>
 
