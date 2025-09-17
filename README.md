@@ -1,6 +1,6 @@
 <!-- 🌟 ANIMATED WAVE HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Madhuri%20Nallabothula&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=18" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Madhuri%20Nallabothula&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=18" alt="Header" width="100%" />
 </p>
 
 <!-- TYPING ANIMATION -->
@@ -92,22 +92,6 @@
 
 ## 🎯 Current Learning Path
 
-<div align="center">
-
-```mermaid
-graph TD
-    A[Frontend Mastery] --> B[React Advanced Patterns]
-    A --> C[Modern CSS & Animations]
-    D[Backend Excellence] --> E[Node.js Performance]
-    D --> F[Database Optimization]
-    G[Full Stack Projects] --> H[MERN Stack Apps]
-    G --> I[Open Source Contributions]
-    J[Future Goals] --> K[System Design]
-    J --> L[Cloud Technologies]
-```
-
-</div>
-
 ### 📚 What I'm Learning
 - **Advanced React**: Hooks, Context, Performance Optimization
 - **Node.js**: RESTful APIs, Authentication, Security
@@ -115,8 +99,6 @@ graph TD
 - **Tools**: Docker, AWS basics, Testing frameworks
 
 ---
-
-
 
 ## 🎨 Fun Section
 
@@ -168,5 +150,5 @@ graph TD
 
 <!-- FOOTER WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" alt="Footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="Footer" width="100%" />
 </p>
