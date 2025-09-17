@@ -46,21 +46,17 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="animated divider" />
 </p>
 
-<!-- Floating rotating GIF icons -->
-<p align="center" style="position: relative; height: 140px;">
-  <img src="https://user-images.githubusercontent.com/74038190/216101139-27a52e65-3aa5-42b7-b579-0c5c9da60d09.gif" width="120" height="120" alt="rotating animation" style="position: absolute; left: 20%; animation: float 4s ease-in-out infinite;" />
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100" height="100" alt="floating star" style="position: absolute; right: 25%; top: 10px; animation: float 5s ease-in-out infinite 0.5s;" />
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="90" height="90" alt="spinning gear" style="position: absolute; left: 50%; top: 20px; animation: spin 6s linear infinite;" />
+<!-- Cute code & anime GIFs with floating animation -->
+<p align="center" style="position: relative; height: 160px; margin-bottom: 40px;">
+  <img src="https://64.media.tumblr.com/7a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a/tumblr_inline_p7q6qv6v6v1r1k1k1_540.gif" alt="Cute coding animation" width="120" style="position: absolute; left: 15%; animation: float 5s ease-in-out infinite;" />
+  <img src="https://i.pinimg.com/originals/3a/0a/3a/3a0a3a3a3a3a3a3a3a3a3a3a3a3a3a3a.gif" alt="Anime girl coding" width="130" style="position: absolute; left: 45%; top: 10px; animation: float 6s ease-in-out infinite 0.5s;" />
+  <img src="https://i.pinimg.com/originals/4b/1c/4b/4b1c4b4b4b4b4b4b4b4b4b4b4b4b4b4b.gif" alt="Calm anime coding" width="110" style="position: absolute; right: 15%; top: 20px; animation: float 4s ease-in-out infinite 1s;" />
 </p>
 
 <style>
   @keyframes float {
     0%, 100% { transform: translateY(0); }
     50% { transform: translateY(-15px); }
-  }
-  @keyframes spin {
-    0% { transform: rotate(0deg);}
-    100% { transform: rotate(360deg);}
   }
 </style>
 
