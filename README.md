@@ -1,12 +1,4 @@
-<!-- 🌟 FULL WIDTH ANIMATED WAVE HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Madhuri%20Nallabothula%20🚀&fontSize=35&fontColor=fff&animation=wave" alt="Animated Waving Header" width="100%" />
-</p>
 
-<!-- ✨ Front GIF -->
-<p align="center">
-  <img src="https://64.media.tumblr.com/7a3a3a3a3a3a3a3a3a3a3a3a3a3a3a3a/tumblr_inline_p7q6qv6v6v1r1k1k1_540.gif" alt="Cute coding animation" width="140" />
-</p>
 <!-- 🌟 FULL WIDTH ANIMATED WAVE HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Madhuri%20Nallabothula%20🚀&fontSize=35&fontColor=fff&animation=wave" alt="Animated Waving Header" width="100%" />
