@@ -75,8 +75,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=wave" alt="Animated Waving Footer" width="100%" />
 </p>
-
 <!-- ✨ Animated Quote -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4500&pause=2000&color=F75C7E&center=true&vCenter=true&width=700&lines=Learning,+building,+and+sharing+—+that’s+how+I+grow+as+a+developer." alt="Animated Quote" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4500&pause=2000&color=F75C7E&center=true&vCenter=true&width=900&lines=Learning,+building,+and+sharing+—+that’s+how+I+grow+as+a+developer." alt="Animated Quote" />
 </p>
+
