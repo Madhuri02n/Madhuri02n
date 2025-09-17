@@ -49,5 +49,4 @@
 
 ---
 
-### ✨ Quote
 > *“Learning, building, and sharing — that’s how I grow as a developer.”*
