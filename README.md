@@ -17,17 +17,6 @@
 - 🌱 Always eager to learn new technologies  
 - ✨ Focused on **clean, scalable code** and **great user experiences**
 
----
-
-### 🚀 Projects
-#### 🌐 WordNook – Social Blogging Platform  
-> MERN stack blogging platform with likes, comments, follows, and responsive UI.
-
-#### 🩺 Disease Prediction Web App  
-> Flask + ML app that predicts diseases from symptoms & recommends medication.
-
----
-
 ### 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,js,react,nodejs,mongodb,python,git,html,css" alt="Skills Icons"/>
