@@ -1,11 +1,11 @@
 <!-- 🌟 ANIMATED WAVE HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Madhuri%20Nallabothula&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Madhuri%20Nallabothula&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=18" alt="Header" width="100%" />
 </p>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Madhuri;Aspiring+Software+Developer;Problem+Solver;Code+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Madhuri;Full+Stack+Developer;Problem+Solver;Code+Enthusiast" alt="Typing SVG" />
 </div>
 
 <br>
@@ -33,7 +33,7 @@
 
 </td>
 <td width="50%">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding" width="400"/>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Girl Coding" width="400"/>
 </td>
 </tr>
 </table>
@@ -68,6 +68,19 @@
 
 </div>
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
@@ -85,21 +98,21 @@
 
 <div align="center">
 
-### 💭 Developer Life in GIFs
+### 💭 Developer Life
 
 <table>
 <tr>
 <td align="center">
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150" height="150" alt="Coding"/>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150" height="150" alt="Girl Coding Success"/>
 <br><b>When Code Works First Try</b>
 </td>
 <td align="center">
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150" height="150" alt="Debugging"/>
-<br><b>Debugging at 2 AM</b>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="150" height="150" alt="Girl Debugging"/>
+<br><b>Debugging Mode</b>
 </td>
 <td align="center">
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" height="150" alt="Deploy"/>
-<br><b>Production Deployment</b>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150" height="150" alt="Girl Celebrating"/>
+<br><b>Successful Deployment</b>
 </td>
 </tr>
 </table>
